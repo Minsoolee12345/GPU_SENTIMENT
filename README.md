@@ -35,9 +35,13 @@
 
 5. 모델 학습
    - 데이터 중 절반을 학습에 사용 후 나머지는 테스트 데이터로 사용.
+   
    - 데이터 분할 : train/validation/test -> 8:1:1
+   
    - Word2Vec 300 d 학습 -> 임베딩 매트릭스 생성
+   
    - BI-LSTM(128 -> 64) + Attention + Dense → Softmax
+   - 
    - 워밍업 & 본 학습 : 3 epoch 워밍업 후 EarlyStopping+Checkpoint 로 100 epoch 탐색
      - 워밍업 : 모델이 초기에 불안정한 가중치로 인해 학습이 잘 진행되지 않는 것을 방지
    - 하이퍼파라미터 : batch 4096, dropout 0.5, L2 1e-4
