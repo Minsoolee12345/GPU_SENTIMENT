@@ -57,6 +57,8 @@
    
    - 모델 저장 : final_bilstm_attention.h5 저장.
 
+-------------------------------------------------------------------------------------------------
+
 6. 모델 정확도
    - ![image](https://github.com/user-attachments/assets/48f08d78-983e-4fee-ad6f-a7a2a8c9df4d)
    - 주요 원인
