@@ -12,7 +12,7 @@
 -------------------------------------------------------------------------------------------------
 
 2. 데이터 라벨링
-  - gemma3,exaone-3.5 사용해 긍정/중립/부정 라벨링.
+  - gemma3 사용해 긍정/중립/부정 라벨링.
 
 -------------------------------------------------------------------------------------------------
 
@@ -86,6 +86,7 @@
   - ![image](https://github.com/user-attachments/assets/df2908d7-98e6-4fa6-b7c0-4bff77d72ef3)
 
   - 전체화면 구성
-  - ![image](https://github.com/user-attachments/assets/eebf05d5-0347-4eba-abf4-f834cd072d8f)
+  - ![image](https://github.com/user-attachments/assets/6c4c17ee-c1a0-46fd-b591-f5868c39c1ce)
+
 
 
