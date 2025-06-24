@@ -13,8 +13,6 @@
 -------------------------------------------------------------------------------------------------
 
 4. 데이터 전처리
-   - ![image](https://github.com/user-attachments/assets/ecfca34c-faa0-4acd-971f-cef068abaabf)![image](https://github.com/user-attachments/assets/c0e64189-ff3e-43df-a834-cec4f060bfa5)
-   - 
    - CSV 필터링 : 긍정/중립/부정 만 추출 후 불필요 라벨 제거.
    - 레이블 인코딩 : 문자열 라벨을 정수로 매핑.
    - 텍스트 정제 : 정규화를 사용해 한글/숫자/공백/!,? 외 모든 문자 삭제.
