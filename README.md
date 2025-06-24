@@ -78,11 +78,11 @@
 
    - 감성 분포 시각화
        - Plotly 막대 차트
-       - ![image](https://github.com/user-attachments/assets/2e019094-c63a-4583-8009-014d7a72edd1)
+       - ![image](https://github.com/user-attachments/assets/25e14ae1-8d3b-47a6-a3ab-00257c65c725)
        - Plotly 도넛 차트
-       - ![image](https://github.com/user-attachments/assets/29738870-5c46-44f2-a2db-06e45dacb673)
+       - ![image](https://github.com/user-attachments/assets/59c8d225-5b6f-4ad2-bb91-a512734e8153)
   - 키워드 분석 : WordCloud + Counter.most_common(20) 감성별 키워드 빈도
-  - ![image](https://github.com/user-attachments/assets/efdae6f9-3173-4219-83ee-d2209b14ffce)
-  - ![image](https://github.com/user-attachments/assets/4b30b49d-f977-4497-85c4-56fb9af7c939)
+  - ![image](https://github.com/user-attachments/assets/b5f14f8e-6a61-4e69-8308-27484d46cc5f)
+  - ![image](https://github.com/user-attachments/assets/df2908d7-98e6-4fa6-b7c0-4bff77d72ef3)
 
 
