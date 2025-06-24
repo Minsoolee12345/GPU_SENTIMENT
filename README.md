@@ -24,3 +24,6 @@
    - 데이터 분할 : train/validation/test -> 8:1:1
    - Word2Vec 300 d 학습 -> 임베딩 매트릭스 생성
    - BI-LSTM(128 -> 64) + Attention + Dense → Softmax
+   - 워밍업 & 본 학습 : 3 epoch 워밍업 후 EarlyStopping+Checkpoint 로 100 epoch 탐색
+   - 하이퍼파라미터 : batch 4096, dropout 0.5, L2 1e-4
+   - 모델 저장 : final_bilstm_attention.h5 저장
