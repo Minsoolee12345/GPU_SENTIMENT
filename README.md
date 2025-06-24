@@ -28,3 +28,11 @@
    - 워밍업 & 본 학습 : 3 epoch 워밍업 후 EarlyStopping+Checkpoint 로 100 epoch 탐색
    - 하이퍼파라미터 : batch 4096, dropout 0.5, L2 1e-4
    - 모델 저장 : final_bilstm_attention.h5 저장
+
+
+6. 스트림릿 구성
+   - 사이드바 구성 : GPU 모델 및 필터 설정
+   - 감성 분포 시각화
+       - Plotly 막대 차트
+       - Plotly 도넛 차트
+  - 키워드 분석 : WordCloud + Counter.most_common(20) 감성별 키워드 빈도 
