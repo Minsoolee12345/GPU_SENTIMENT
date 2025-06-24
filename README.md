@@ -45,5 +45,6 @@
        - ![image](https://github.com/user-attachments/assets/29738870-5c46-44f2-a2db-06e45dacb673)
   - 키워드 분석 : WordCloud + Counter.most_common(20) 감성별 키워드 빈도
   - ![image](https://github.com/user-attachments/assets/efdae6f9-3173-4219-83ee-d2209b14ffce)
-  - 
+  - ![image](https://github.com/user-attachments/assets/4b30b49d-f977-4497-85c4-56fb9af7c939)
+
 
