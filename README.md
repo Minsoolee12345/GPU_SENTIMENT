@@ -14,11 +14,11 @@
 
 4. 데이터 전처리
    - CSV 필터링 : 긍정/중립/부정 만 추출 후 불필요 라벨 제거.
-   - ![image](https://github.com/user-attachments/assets/01ce16e8-40b6-4374-be7b-2d624df351df)
+   -![image](https://github.com/user-attachments/assets/01ce16e8-40b6-4374-be7b-2d624df351df)
 
    - 레이블 인코딩 : 문자열 라벨을 정수로 매핑.
    - 텍스트 정제 : 정규화를 사용해 한글/숫자/공백/!,? 외 모든 문자 삭제.
-   - ![image](https://github.com/user-attachments/assets/69a61734-ade5-4899-a998-dceddea0b1fc)
+   -![image](https://github.com/user-attachments/assets/69a61734-ade5-4899-a998-dceddea0b1fc)
 
    - 형태소 토큰화 : KoNLPy Okt 분석기로 어간(원형)까지 분리.
    - 불용어 제거 : korean_stopwords.txt(사용자 제작) 읽어 불용어 제거.
