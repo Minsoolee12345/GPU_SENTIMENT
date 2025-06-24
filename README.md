@@ -1,7 +1,8 @@
 # GPU_SENTI
 
 1. 데이터 수집
-  - GPU 게시판 : 퀘이사존, 쿨&조이.
+  - GPU 게시판 : 쿨&조이.
+  - ![image](https://github.com/user-attachments/assets/635e4e3f-c52e-4b13-88d9-4c4c27ba0d64)
   - 수집 데이터셋 : 63만개.
 
 
