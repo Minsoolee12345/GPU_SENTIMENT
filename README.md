@@ -22,7 +22,8 @@
 
    - 형태소 토큰화 : KoNLPy Okt 분석기로 어간(원형)까지 분리.
    - 불용어 제거 : korean_stopwords.txt(사용자 제작) 읽어 불용어 제거.
-   - ![Uploading image.png…]()
+   -![image](https://github.com/user-attachments/assets/406c6681-46b8-48af-9788-b1f41039b396)
+
 
    - 캐싱 : 1회 전처리 결과를 pkl(피클)로 저장해 재실행 시 로딩 속도 개선.
    - 문장 길이 통계 : 95-백분위 길이를 max_len으로 설정해 과도한 패딩 방지.
