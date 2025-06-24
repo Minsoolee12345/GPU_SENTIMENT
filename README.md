@@ -11,7 +11,7 @@
 
 4. 데이터 전처리
    - CSV 필터링 : 긍정/중립/부정 만 추출 후 불필요 라벨 제거.
-   - 레이블 인코딩 : 문자열 라벨을 정수로 매핑.![image](https://github.com/user-attachments/assets/881a62a0-4875-4a13-a040-3565f3dd4b62)
+   - 레이블 인코딩 : 문자열 라벨을 정수로 매핑.
 
    - 텍스트 정제 : 정규화를 사용해 한글/숫자/공백/!,? 외 모든 문자 삭제.
    - 형태소 토큰화 : KoNLPy Okt 분석기로 어간(원형)까지 분리.
@@ -33,6 +33,11 @@
 
 6. 스트림릿 구성
    - 사이드바 구성 : GPU 모델 및 필터 설정
+  
+![image](https://github.com/user-attachments/assets/29993d59-81e6-4756-81a2-0f1dd24e9fb1)
+![image](https://github.com/user-attachments/assets/4d7daf70-88b1-437e-8005-807f84e1385c)
+
+
    - 감성 분포 시각화
        - Plotly 막대 차트
        - Plotly 도넛 차트
