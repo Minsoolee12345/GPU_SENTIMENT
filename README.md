@@ -85,4 +85,7 @@
   - ![image](https://github.com/user-attachments/assets/b5f14f8e-6a61-4e69-8308-27484d46cc5f)
   - ![image](https://github.com/user-attachments/assets/df2908d7-98e6-4fa6-b7c0-4bff77d72ef3)
 
+  - 전체화면 구성
+  - ![image](https://github.com/user-attachments/assets/eebf05d5-0347-4eba-abf4-f834cd072d8f)
+
 
