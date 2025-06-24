@@ -43,6 +43,7 @@
    - BI-LSTM(128 -> 64) + Attention + Dense → Softmax
      - BI-LSTM : 문장의 복잡한 특징을 폭 넓게 파악한 후(128) 더 적은 유닛(64)으로 특징만 남기기 위함
      - Attention : 문장에서 어떤 단어/부분 이 감성분석에서 가장 중요한지 찾아 해당 부분에 더 많은 가중치를 주기 위함
+     - softmax : 정확률을 표시하기 위함
 
    - 워밍업 & 본 학습 : 3 epoch 워밍업 후 EarlyStopping+Checkpoint 로 100 epoch 탐색
      - 워밍업 : 모델이 초기에 불안정한 가중치로 인해 학습이 잘 진행되지 않는 것을 방지
