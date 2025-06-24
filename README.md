@@ -21,7 +21,7 @@
    - ![image](https://github.com/user-attachments/assets/69a61734-ade5-4899-a998-dceddea0b1fc)
 
    - 형태소 토큰화 : KoNLPy Okt 분석기로 어간(원형)까지 분리.
-   -![image](https://github.com/user-attachments/assets/12435bdf-e99d-46bf-b73f-08a89b25ba81)
+    ![image](https://github.com/user-attachments/assets/12435bdf-e99d-46bf-b73f-08a89b25ba81)
 
    - 불용어 제거 : korean_stopwords.txt(사용자 제작) 읽어 불용어 제거.
    ![image](https://github.com/user-attachments/assets/406c6681-46b8-48af-9788-b1f41039b396)
