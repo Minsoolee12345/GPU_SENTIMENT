@@ -42,4 +42,5 @@
        - Plotly 막대 차트
        - ![image](https://github.com/user-attachments/assets/2e019094-c63a-4583-8009-014d7a72edd1)
        - Plotly 도넛 차트
+       - ![image](https://github.com/user-attachments/assets/29738870-5c46-44f2-a2db-06e45dacb673)
   - 키워드 분석 : WordCloud + Counter.most_common(20) 감성별 키워드 빈도 
