@@ -58,6 +58,19 @@
 -------------------------------------------------------------------------------------------------
 
 6. 모델 정확도
+
+| Metric                | Train | Validation | Test |
+|-----------------------|:-----:|:----------:|:----:|
+| Accuracy              | 0.74  | 0.69       | 0.66 |
+| Macro Precision       | 0.75  | 0.70       | 0.66 |
+| Macro Recall          | 0.74  | 0.69       | 0.66 |
+| Macro F1-score        | 0.74  | 0.69       | 0.65 |
+| Weighted Precision    | 0.75  | 0.69       | 0.68 |
+| Weighted Recall       | 0.74  | 0.69       | 0.66 |
+| Weighted F1-score     | 0.74  | 0.69       | 0.66 |
+
+
+
    - ![image](https://github.com/user-attachments/assets/48f08d78-983e-4fee-ad6f-a7a2a8c9df4d)
    - 주요 원인
      - 클래스 불균형으로 인해 부정 클래스에 편향됨
